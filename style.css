@@ -1,0 +1,39 @@
+.main {
+  text-align: center;
+  margin: 0;
+}
+
+.search-bar {
+  width: 500px;
+  margin-bottom: 20px;
+  border: 1px solid lightgray;
+  border-radius: 50px;
+  padding: 5px 10px;
+  line-height: 24px;
+}
+
+.btn-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  margin-right: 5px;
+  margin-left: 5px;
+  background-color: #f8f9fa;
+  color: #222;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  font-size: 14px;
+
+}
+
+img {
+  margin-top: 50px;
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
